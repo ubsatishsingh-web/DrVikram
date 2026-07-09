@@ -1,0 +1,6 @@
+{
+  "name": "Centre For Complete Dental Care",
+  "description": "Premium dental clinic landing page for Centre For Complete Dental Care (CCDC) led by Dr. Vikramaditya Sabharwal in Chandigarh, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
